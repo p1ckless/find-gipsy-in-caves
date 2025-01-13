@@ -10,7 +10,6 @@ the goal is find GIPSY hidden in 4 caves
 - user only can input number between 1, 2, 3, 4
 ```
 ## Code 
-```markdown
 ```pyton
 import random # library random
 game_name = "Find  GIPSY"
