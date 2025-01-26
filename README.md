@@ -2,7 +2,6 @@
 
 simple game text bassed. 
 create for learning purpose. 
-the goal is find GIPSY hidden in 4 caves
 
 ## FEATURES
 ```bash
