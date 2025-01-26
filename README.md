@@ -30,4 +30,4 @@ while True:
 ## NOTE
 this project is part of my learning python. 
 i made this project in acode (android apps for coding).
-give me feedback to be better!, Thank You. (Update at January 13 2025)
+give me feedback to be better!, Thank You.
