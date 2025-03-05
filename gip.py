@@ -55,7 +55,7 @@ while True:
     if health == 0:
         print("Game Over! Nice Try.")
 
-    # Play.again
+    
     play_again = input("Do you want to play again? [Y/N]: ").lower()
     if play_again == "n":
         break
